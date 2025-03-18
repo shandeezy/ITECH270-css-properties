@@ -1,0 +1,68 @@
+*{
+    /*set universal margin, padding, and font type*/
+}
+
+h1{
+    /*set global style for H1 tags*/
+}
+
+h2{
+    /*set global style for H2 tags*/
+}
+
+h3{
+    /*set global style for H3 tags*/
+}
+
+p{
+    /*set global styles for p tags*/
+}
+
+a{
+    /*set global link settings*/
+}
+
+body{
+    /*set background color for the whole page*/
+}
+
+header{
+    /*add a background image*/
+    /*center the H1*/
+    /*change the font color to white*/
+    /*change the height of the header*/
+    /*center the header content*/
+    
+}
+
+.container{
+    /*set padding for the main content*/
+}
+
+section{
+    
+}
+
+.about{
+
+}
+
+.blog{
+
+}
+
+.contact{
+
+}
+
+.button{
+
+}
+
+.footer{
+
+}
+
+.copyright{
+    
+}
